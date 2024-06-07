@@ -1,7 +1,25 @@
-Accommodation: 
+---
+title: "A cosy weekend in Copenhagen"
+date: # TODO
+tagline: "Craft beers, exceptional pastries, & beanie hats"
+header:
+  overlay_image: # TODO - S3 image hosting
+  overlay_filter: # TODO
+  caption: # "Photo credit: me / Bart"
+#   actions:
+#   - label: 
+#     url: 
+categories:
+  - blog
+# tags:
+---
+
+## Practicalities
+
+# Accommodation: 
 Hotel Admiral
 
-City transport:
+# City transport:
 Metro
 Bus
 
