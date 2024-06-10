@@ -23,33 +23,35 @@ Hotel Admiral
 Metro
 Bus
 
-Breakfast:
+Use this mobile app for Copenhagen public transport - DOT
+
+## Breakfast:
 Juno
 Hart bageri
 
-Lunch / snacks:
+## Lunch / snacks:
 Torvehallen
 Library cafe
 Gasoline Grill
 Organic hot dog stand
 
-Coffee:
+## Coffee:
 Prolog coffee
 Library cafe
 Kafferiet
 
-Dinner:
+## Dinner:
 Halifax burger
 Warpigs
 Restaurant Barr
 
-Bars:
+## Bars:
 Brus
 Norrebro Bryghus
 Milkeller brewery
 Black Swan
 
-Day one:
+## Day one:
 Flight from Gatwick 7 AM
 Copenhagen 1 hour ahead, arrive around 11 AM
 Rainiest day in Copenhagen in recorded history
@@ -58,7 +60,7 @@ Downloaded the DOT travel app and purchased a single journey
 Travelled as far as Christianshavn metro and then had to walk 20 mins to our hotel, Hotel Admiral 
 Could tell that on a nice day this would have been a very pretty walk - but we were under umbrellas 
 Made it to the hotel and checked into our room - unpack and quick nap before setting out
-Hotel is very grand, rooms are nice and cosy. They had a great November deal on when booking via their website of 3 nights for 2. Had some issues with our room which we reported before heading out.
+Hotel is very grand, rooms are nice and cosy. They had a great November deal on when booking via their website of 3 nights for 2. Lovely Christmas decorations started to go up. Had some issues with our room which we reported before heading out.
 Luckily rain died off a little but still very wet and cold
 Walked down to Nyhavn and along the main avenue Gothersgade, past Rosenberg castle, to Torvehallerne food hall
 Spent a few hours here, tried some Smorrebrod and shnapps (dill and rhubarb) and then coffee and pastries, was very cosy and everything was high quality and delicious.
